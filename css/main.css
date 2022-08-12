@@ -32,6 +32,9 @@ body{
     padding: 0;
     font-family: "Barlow", "Arial", sans-serif;
 }
+.body-active{
+    overflow: hidden;
+}
 @font-face {
     font-family: 'Barlow';
     font-style: normal;
