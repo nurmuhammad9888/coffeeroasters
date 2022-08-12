@@ -180,9 +180,9 @@ body{
     position: fixed;
     top: 0;
     left: 0;
-    bottom: 0;
+    /* bottom: 0; */
     width: 100%;
-    height: 100%;
+    /* height: 100%; */
     transform: translate(-150%);
     transition: transform 0.5s ease-in-out;
     z-index: 15;
