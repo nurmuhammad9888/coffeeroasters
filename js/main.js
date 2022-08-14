@@ -13,4 +13,5 @@ elOverlayshow.addEventListener("click", function(){
     elBtnOpen.classList.remove("open-btn-show")
     elNavShow.classList.remove("site-header__nav-show-active")
     elOverlayshow.classList.remove("overlay-show")
+    elBody.classList.remove("body-active")
 })
