@@ -1038,3 +1038,14 @@ body{
         left: 730px;
     }
 }
+@media only screen and (min-width:1223px){
+    .works__line{
+        width: 800px;
+    }
+    .works__cricle:nth-child(2){
+        left: 380px;
+    }
+    .works__cricle:nth-child(3){
+        left: 800px;
+    }
+}
